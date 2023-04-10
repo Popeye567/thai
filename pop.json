@@ -10,17 +10,12 @@
 ,
 {
          "name": "OPENLAND-01-DTAC"
-         "url":  "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-DTAC%20.ovpn"
-      }
-,
-{
-         "name": "OPENLAND-01-TRUE"
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-TRUE.ovpn"
+         "url":  "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-DTAC.ovpn"
       }
 
-
-   ],
-"message":"
+       
+  ]
+"message"
 *🌎- ระบบอัพเดทอัตโนมัติ -🌎
  🆙 อัพเดท วันที่ 10-04-2023
 
@@ -33,5 +28,5 @@
  
 \n\nUpdate:1",
 "title":"เวอร์ชั่นที่" ,
-   "version":3
+   "version":2
 }
