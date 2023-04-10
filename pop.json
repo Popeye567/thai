@@ -4,23 +4,23 @@
 
 
 {
-         "name":   "OPENLAND-01-AIS"
+         "name": "OPENLAND-01-AIS"
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-AIS.ovpn"
       }
-
+,
 {
          "name": "OPENLAND-01-DTAC"
-         "url":  "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-DTAC.ovpn"
       }
-
+,
 {
-         "name": "OPENLAND-01-TRUE",
+         "name": "OPENLAND-01-TRUE"
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-TRUE.ovpn"
       }
 
-       
-  ]
-"message"
+
+   ],
+"message":"
 *🌎- ระบบอัพเดทอัตโนมัติ -🌎
  🆙 อัพเดท วันที่ 10-04-2023
 
