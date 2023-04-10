@@ -12,6 +12,11 @@
          "name": "OPENLAND-01-DTAC"
          "url":  "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-DTAC.ovpn"
       }
+.
+{
+         "name": "OPENLAND-01-TRUE",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/OPENLAND-01-TRUE.ovpn"
+      }
 
        
   ]
