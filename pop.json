@@ -19,21 +19,6 @@
       }
 ,
 {
-         "name": "AIS-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-IDC-OPENLAND-TH-01-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-IDC-OPENLAND-TH-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-IDC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-IDC-OPENLAND-TH-01-TRUE.ovpn"
-      }
-,
-{
          "name": "AIS-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-TH-01-AIS.ovpn"
       }
@@ -61,6 +46,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":3
+   "version":4
 }
- 
