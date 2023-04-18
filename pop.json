@@ -20,24 +20,24 @@
 ,
 {
          "name": "AIS-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-TH-01-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-TH-01-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-DTAC.ovpn"
       }
 ,
 {
          "name": "TRUE-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-TH-01-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-TRUE.ovpn"
       }
 
 
    ],
 "message":"
 🌎- ระบบอัพเดทอัตโนมัติ -🌎
- 🆙 อัพเดท วันที่ 17-04-2023
+ 🆙 อัพเดท วันที่ 18-04-2023
 
 🌟ท่านไดสนใจเช่าVIPเร็วจ๊วด🌟
 
@@ -46,5 +46,5 @@
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":4
+   "version":5
 }
