@@ -5,60 +5,44 @@
 
 {
          "name": "AIS-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-GAME-OPENLAND-TH-01-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-GAME-OPENLAND-TH-01-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-GAME-OPENLAND-TH-01-TRUE.ovpn"
-      }
-,
-{
-         "name": "AIS-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-AIS.ovpn"
       }
 ,
 {
-         "name": "DTAC-OPENLAND-TH-VIP",
+         "name": "DTAC-GAME-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-DTAC.ovpn"
       }
 ,
 {
-         "name": "TRUE-OPENLAND-TH-VIP",
+         "name": "TRUE-GAME-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-TRUE.ovpn"
       }
-,
 {
-         "name": "FREE-OPENLAND-AIS",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/FREE-OPENLAND-AIS.ovpn"
+         "name": "AIS-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-AIS.ovpn"
       }
 ,
 {
-         "name": "FREE-OPENLAND-DTAC"
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/FREE-OPENLAND-DTAC.ovpn"
+         "name": "DTAC-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-DTAC.ovpn"
       }
 ,
 {
-         "name": "FREE-OPENLAND-TRUE",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/FREE-OPENLAND-TRUE.ovpn"
+         "name": "TRUE-01-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-TRUE.ovpn"
       }
-      
-      
+
+
    ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 20-04-2023
+🌎ระบบอัพเดทอัตโนมัติ 20-04-2023
 
 🌟ท่านไดสนใจเช่าVIPเร็วจ๊วด🌟
 
 ❤เช่าvipกด❤👇
-⚡⚡
+⚡https://thvpnzx.shop/servers⚡
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":8
+   "version":9
 }
