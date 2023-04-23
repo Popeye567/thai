@@ -5,45 +5,45 @@
 
 {
          "name": "AIS-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-DTAC.ovpn"
       }
 ,
 {
          "name": "TRUE-GAME-OPENLAND-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-TRUE.ovpn"
+      }
+,
+{
+         "name": "AIS-OPENLAND-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-AIS.ovpn"
+      }
+,
+{
+         "name": "DTAC-OPENLAND-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-DTAC.ovpn"
+      }
+,
+{
+         "name": "TRUE-OPENLAND-TH-VIP",
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-TRUE.ovpn"
       }
-,
-{
-         "name": "AIS-01-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-AIS.ovpn"
-      }
-,
-{
-         "name": "DTAC-01-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-DTAC.ovpn"
-      }
-,
-{
-         "name": "TRUE-01-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/ARCER%20EZ-TRUE.ovpn"
-      }
 
-
-   ],
+      
+       ],
 "message":"
-🌎ระบบอัพเดทอัตโนมัติ 20-04-2023
+🌎- ระบบอัพเดทอัตโนมัติ 23-04-2023
 
 🌟ท่านไดสนใจเช่าVIPเร็วจ๊วด🌟
 
 ❤เช่าvipกด❤👇
-⚡https://thvpnzx.shop/servers⚡
+⚡⚡
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":10
+   "version":11
 }
