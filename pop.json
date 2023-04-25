@@ -5,56 +5,73 @@
 
 {
          "name": "AIS-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-OPENLAND-TH-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-OPENLAND-TH-DTAC.ovpn"
       }
 ,
 {
          "name": "TRUE-GAME-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-OPENLAND-TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-OPENLAND-TH-TRUE.ovpn"
       }
 ,
 {
          "name": "AIS-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-DTAC.ovpn"
       }
 ,
 {
          "name": "TRUE-OPENLAND-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-OPENLAND-01-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-OPENLAND-01-TRUE.ovpn"
+      }
+,
+{
+         "name": 
+"AIS-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-AIS.ovpn"
+      }
+,
+{
+         "name": 
+"DTAC-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-DTAC.ovpn"
+      }
+,
+{
+         "name": 
+"TRUE-ZCOM-TH-VIP",
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/VIP-ZCOM-TH-TRUE.ovpn"
       }
 ,
 {
          "name": 
 "AIS-GAME-ZCOM-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-ZCOM-TH-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-ZCOM-TH-AIS.ovpn"
       }
 ,
 {
          "name": 
 "DTAC-GAME-ZCOM-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-ZCOM-TH-DTAC.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-ZCOM-TH-DTAC.ovpn"
       }
 ,
 {
          "name": 
 "TRUE-GAME-ZCOM-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/GAME-ZCOM-TH-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/THAI2/main/GAME-ZCOM-TH-TRUE.ovpn"
       }
 
-      
-       ],
+     ],
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 25-04-2023
+🌎- ระบบอัพเดทอัตโนมัติ 26-04-2023
 
 @ปีศาจ สุรา 👻
 
@@ -70,5 +87,5 @@ https://m.me/fmxradio.sukhothai.3
 
 \n\nUpdate:1",
 "title":"New Update File" ,
-   "version":12
+   "version":14
 }
