@@ -6,17 +6,17 @@
 
 {
          "name": "AIS-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI/main/VIP-RCADYIDC-AIS.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-AIS.ovpn"
       }
 ,
 {
          "name": "DTAC-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI/main/VIP-RCADYIDC-DTA.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-DTA.ovpn"
       }
 ,
 {
          "name": "TRUE-RCADYIDC-TH-VIP",
-         "url": "https://raw.githubusercontent.com/Popeye567/THAI/main/VIP-RCADYIDC-TRUE.ovpn"
+         "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-TRUE.ovpn"
       }
       
        ],
@@ -30,5 +30,5 @@ https://m.me/fmxradio.sukhothai.3
 \n\nUpdate:1",
 "title":"New Update File" ,
    "version":22
-      }
+}
       
