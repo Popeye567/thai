@@ -1,33 +1,87 @@
 {
+
    "files": [   
 
 
 
 
+
+
+
+
+
 {
+
          "name": "AIS-RCADYIDC-TH-VIP",
+
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-AIS.ovpn"
+
       }
+
 ,
+
 {
+
          "name": "DTAC-RCADYIDC-TH-VIP",
+
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-DTA.ovpn"
+
       }
+
 ,
+
 {
+
          "name": "TRUE-RCADYIDC-TH-VIP",
+
          "url": "https://raw.githubusercontent.com/Popeye567/thai/main/VIP-RCADYIDC-TRUE.ovpn"
+
       }
+
       
+
        ],
+
 "message":"
-🌎- ระบบอัพเดทอัตโนมัติ 22-มิ.ย-2023
+
+🌎- ระบบอัพเดทอัตโนมัติ 1-ก.ค-2023
+
+🙏🏻🌍บริการของเรา
+
+1 วัน = 1 บาท
+7 วัน = 7 บาท
+15 วัน = 15 บาท
+30 วัน = 30 บาท
+
+🏡🏻ใช้แบบครอบครัว
+เชื่อมต่อ 5 คน 55 บาท/เดือน
+เชื่อมต่อ 10 คน 110 บาท/เดือน
+
+🔥รองรับการใช้งานทุกเครือข่าย
+●เอไอเอส
+●ดีเทค
+●ทรูมูท
+🌟รองรับการใช้งานทุกเครือข่าย
+AIS DTAC TRUE
+แจ้งอัพเดทเซิฟใหม่สดๆร้อน
+VIP-AIS-RCADYIDC-TH🇹🇭
+VIP-DTAC-RCADYIDC-TH🇹🇭
+VIP-TRUE-RCADYIDC-TH🇹🇭
+
+●ไม่เก็บเงินย้อนหลัง
 
 ▶ติดต่อแอดมิน
+
 ▶ปีศาจ สุรา 👻 
+
 https://m.me/fmxradio.sukhothai.3
 
+
+
 \n\nUpdate:1",
+
 "title":"New Update File" ,
-   "version":22
+
+   "version":23
+
 }
